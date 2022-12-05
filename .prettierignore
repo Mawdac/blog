@@ -1,0 +1,17 @@
+# Ignore everything
+/*
+/public/*.png
+/public/*.jpg
+/public/*.ico
+/public/*.txt
+/public/assets
+
+# Except these files & folders
+!/src
+!/public
+!/.github
+!tsconfig.json
+!astro.config.mjs
+!package.json
+!.prettierrc
+!.eslintrc.json
